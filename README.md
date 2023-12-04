@@ -1,4 +1,3 @@
-# russian_trash_site
 
 1. https://qna.habr.com/
 
